@@ -1,5 +1,4 @@
-﻿using Newtonsoft.Json.Converters;
-using RulesEngine.Models;
+﻿using RulesEngine.Models;
 using RulesEngineCustomTypeExample;
 
 var rules = new List<Rule>();
