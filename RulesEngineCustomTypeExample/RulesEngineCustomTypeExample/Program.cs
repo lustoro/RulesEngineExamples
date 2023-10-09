@@ -21,7 +21,6 @@ var workflow = new Workflow()
     Rules = rules
 };
 
-var converter = new ExpandoObjectConverter();
 var employees = new List<Employee>();
 
 for (int i = 1; i <= 20; i++)
